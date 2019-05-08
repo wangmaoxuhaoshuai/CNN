@@ -1,2 +1,2 @@
 # CNN
-This is some code in the learning process.
+There are some codes about CNN.
